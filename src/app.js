@@ -15,4 +15,5 @@ btn.addEventListener("click", () => {
     }else{
         root.setAttribute("data-tema", "escuro")
     }
+
 })
